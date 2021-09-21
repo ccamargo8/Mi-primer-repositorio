@@ -10,3 +10,5 @@ window = Tk()
 
 #Bucle principal encargado de gestionar todos los eventos
 window.mainloop()
+
+print("Hola Mundo")
